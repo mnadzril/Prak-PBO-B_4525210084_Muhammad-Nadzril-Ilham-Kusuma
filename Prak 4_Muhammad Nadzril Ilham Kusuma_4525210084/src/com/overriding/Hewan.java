@@ -6,3 +6,4 @@ public class Hewan {
         System.out.println("Hewan mengeluarkan: suara");
     }
 }
+ 

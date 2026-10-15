@@ -9,8 +9,6 @@ public class Makanan extends Produk {
     }
 
     public void hitungHarga() {
-        
-
         System.out.println("Harga makanan: Rp25000" + hitungHarga());
     }
 }
